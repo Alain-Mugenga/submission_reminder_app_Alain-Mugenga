@@ -1,5 +1,3 @@
-# Populate README.md with basic instructions
-cat << EOF > "$main_dir/README.md"
 # Submission Reminder App
 
 This application helps students track and receive alerts about upcoming assignment deadlines.
